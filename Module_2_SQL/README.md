@@ -4,7 +4,7 @@ This project is a part of the Cognizant Upskilling assignment for ANSI SQL (Modu
 
 ## Contents
 
-- - DDL scripts for creating tables: Users, Events, Sessions, Registrations, Feedback, and Resources.
+- – DDL scripts for creating tables: Users, Events, Sessions, Registrations, Feedback, and Resources.
 - – Sample data to populate all tables as per assignment requirements.
 - – Solutions for questions 1 to 25 using ANSI SQL syntax in MySQL.
 
